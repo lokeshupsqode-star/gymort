@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "JOHN WILLIAMS",
+        "role": "Box Trainer",
+        "image": "/images/team/triners_1.png",
+        "image2": "/images/team/trainer2-img1.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/johnwilliams",
+            "twitter": "https://twitter.com/johnwilliams",
+            "instagram": "https://instagram.com/johnwilliams",
+            "linkedin": "https://linkedin.com/in/johnwilliams",
+            "youtube": "https://youtube.com/@johnwilliams"
+        }
+    },
+    {
+        "id": 2,
+        "name": "KATE MOORE",
+        "role": "CrossFit Trainer",
+        "image": "/images/team/triners_2.png",
+        "image2": "/images/team/trainer2-img2.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/katemoore",
+            "twitter": "https://twitter.com/katemoore",
+            "instagram": "https://instagram.com/katemoore",
+            "linkedin": "https://linkedin.com/in/katemoore",
+            "youtube": "https://youtube.com/@katemoore"
+        }
+    },
+    {
+        "id": 3,
+        "name": "MORGAN COOPER",
+        "role": "Cardio Trainer",
+        "image": "/images/team/triners_3.png",
+        "image2": "/images/team/trainer2-img3.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/morgancooper",
+            "twitter": "https://twitter.com/morgancooper",
+            "instagram": "https://instagram.com/morgancooper",
+            "linkedin": "https://linkedin.com/in/morgancooper",
+            "youtube": "https://youtube.com/@morgancooper"
+        }
+    },
+    {
+        "id": 4,
+        "name": "AMANDA BROWN",
+        "role": "Power Yoga Trainer",
+        "image": "/images/team/triners_4.png",
+        "image2": "/images/team/trainer2-img4.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/amandabrown",
+            "twitter": "https://twitter.com/amandabrown",
+            "instagram": "https://instagram.com/amandabrown",
+            "linkedin": "https://linkedin.com/in/amandabrown",
+            "youtube": "https://youtube.com/@amandabrown"
+        }
+    },
+    {
+        "id": 5,
+        "name": "JAMES TAYLOR",
+        "role": "CrossFit Trainer",
+        "image": "/images/team/triners_5.png",
+        "image2": "/images/team/trainer2-img5.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/jamestaylor",
+            "twitter": "https://twitter.com/jamestaylor",
+            "instagram": "https://instagram.com/jamestaylor",
+            "linkedin": "https://linkedin.com/in/jamestaylor",
+            "youtube": "https://youtube.com/@jamestaylor"
+        }
+    },
+    {
+        "id": 6,
+        "name": "ALISA FOX",
+        "role": "Cardio Trainer",
+        "image": "/images/team/triners_6.png",
+        "image2": "/images/team/trainer2-img6.jpg",
+        "socials": {
+            "facebook": "https://facebook.com/alisafox",
+            "twitter": "https://twitter.com/alisafox",
+            "instagram": "https://instagram.com/alisafox",
+            "linkedin": "https://linkedin.com/in/alisafox",
+            "youtube": "https://youtube.com/@alisafox"
+        }
+    }
+]

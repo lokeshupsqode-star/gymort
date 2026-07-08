@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bb",
+    "number": "01",
+    "day": "MON",
+    "startMin": 720,
+    "endMin": 840,
+    "title": "Body building",
+    "featured": false,
+    "image": "/images/program/myProgramImg2.png"
+  },
+  {
+    "id": "wl",
+    "number": "02",
+    "day": "TUE",
+    "startMin": 840,
+    "endMin": 960,
+    "title": "Weight lifting",
+    "featured": true,
+    "image": "/images/program/myProgramImg1.png"
+  },
+  {
+    "id": "ms",
+    "number": "03",
+    "day": "WED",
+    "startMin": 960,
+    "endMin": 1080,
+    "title": "Musculation",
+    "featured": false,
+    "image": "/images/program/myProgramImg3.png"
+  },
+  {
+    "id": "yg",
+    "number": "04",
+    "day": "THU",
+    "startMin": 1080,
+    "endMin": 1200,
+    "title": "Classic yoga",
+    "featured": false,
+    "image": "/images/program/myProgramImg4.png"
+  },
+  {
+    "id": "cd",
+    "number": "05",
+    "day": "FRI",
+    "startMin": 360,
+    "endMin": 420,
+    "title": "Cardio",
+    "featured": false,
+    "image": "/images/program/myProgramImg5.png"
+  }
+]

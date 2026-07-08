@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "number": "01",
+        "title": "Group Training",
+        "description": "Nunc nulla eu volutpat consectetur id scelerisque. A eu faucibus egestas risus nisi sed a morbi. Aenean id metus elit tempus. Lectus et malesuada nisl netus amet facilisis tincidunt. Enim arcu lacus libero maecenas egestas. Suspendisse  dui aliquet ut laoreet a pharetra pretium vitae feugiat. Vitae interdum urna interdum donec leo et. Aliquam nam amet viverra pharetra sit.",
+        "image": "/images/program/ourProgreamImg1.jpg"
+    },
+    {
+        "id": 2,
+        "number": "02",
+        "title": "Personal Training",
+        "description": "Nunc nulla eu volutpat consectetur id scelerisque. A eu faucibus egestas risus nisi sed a morbi. Aenean id metus elit tempus. Lectus et malesuada nisl netus amet facilisis tincidunt. Enim arcu lacus libero maecenas egestas. Suspendisse  dui aliquet ut laoreet a pharetra pretium vitae feugiat. Vitae interdum urna interdum donec leo et. Aliquam nam amet viverra pharetra sit.",
+        "image": "/images/program/ourProgreamImg2.jpg"
+    },
+    {
+        "id": 3,
+        "number": "03",
+        "title": "Digital Training",
+        "description": "Nunc nulla eu volutpat consectetur id scelerisque. A eu faucibus egestas risus nisi sed a morbi. Aenean id metus elit tempus. Lectus et malesuada nisl netus amet facilisis tincidunt. Enim arcu lacus libero maecenas egestas. Suspendisse  dui aliquet ut laoreet a pharetra pretium vitae feugiat. Vitae interdum urna interdum donec leo et. Aliquam nam amet viverra pharetra sit.",
+        "image": "/images/program/ourProgreamImg3.jpg"
+    },
+    {
+        "id": 4,
+        "number": "04",
+        "title": "Outdoor Training",
+        "description": "Nunc nulla eu volutpat consectetur id scelerisque. A eu faucibus egestas risus nisi sed a morbi. Aenean id metus elit tempus. Lectus et malesuada nisl netus amet facilisis tincidunt. Enim arcu lacus libero maecenas egestas. Suspendisse  dui aliquet ut laoreet a pharetra pretium vitae feugiat. Vitae interdum urna interdum donec leo et. Aliquam nam amet viverra pharetra sit.",
+        "image": "/images/program/ourProgreamImg4.jpg"
+    }
+]

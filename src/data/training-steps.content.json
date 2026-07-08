@@ -1,0 +1,31 @@
+{
+  "steps": [
+    {
+      "id": "step-1",
+      "number": "01",
+      "title": "Choose your training",
+      "body": "Quis venenatis interdum fames nisi. Egestas pellentesque rutrum rhoncus morbi accumsan euismod faucibus odio. Non egestas tortor consectetur euismod sed aliquam sit dignissim, id non nettor lectus mauris. Fringilla eget viverra nisl quis aenean. Scelerisque sit convallis magna id tempor sit ultrices. Platea pretium arcu elit lacinia tempor sit ultrices. Libero tempor ut ultricies ultrices egestas ac integer.",
+      "image": "/images/why-choose/chooseImg1.jpg",
+      "imageAlt": "Group ab workout in the gym",
+      "imagePosition": "left"
+    },
+    {
+      "id": "step-2",
+      "number": "02",
+      "title": "Start work anywhere",
+      "body": "Eu ultrices sagittis nec tellus eu morbi enim. In posuere in bibendum gravida eu sapien. Fermentum semper risus sodales nulla diem urna convallis a quis. Sed fringilla sollicitudin felis nulla nulla tempus. Vulputate ultrices luctus enim tempus at tempus vitae metus sed. In quis amet lectus morbi metus aliquet sit. Nisi nascetur elementum purus condimentum pellentesque dui. Cras gravida elementum nulla volutpat consequat amet mauris facilisis.",
+      "image": "/images/why-choose/chooseImg2.jpg",
+      "imageAlt": "Home dumbbell workout",
+      "imagePosition": "right"
+    },
+    {
+      "id": "step-3",
+      "number": "03",
+      "title": "Make real results",
+      "body": "Purus augue nullam sed nisi. Vitae laoreet vestibulum egestas at in nibh et nulla amet. Amet facilisis blandit est faucibus felis ullamcorper. Ornare a sem massa volutpat arcu ipsum tellus sed. Purus sed in habitant velit eget sed velit. Curabitur tristique elementum laoreet pellentesque. Tincidunt elit vitae sed nibh commodo. Donec nec eu adipiscing posuere. A interdum sed gravida mauris. Orci fusce bibendum ut in.",
+      "image": "/images/why-choose/chooseImg3.jpg",
+      "imageAlt": "Gym lunge workout",
+      "imagePosition": "left"
+    }
+  ]
+}

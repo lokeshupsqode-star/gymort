@@ -1,0 +1,29 @@
+[
+    {
+        "id": "slide-1",
+        "eyebrow": "Fitness for Everyone",
+        "titleLine1": "No Matter Your Fitness Level.",
+        "image": "/images/home/home_slide_img_1.png",
+        "video": "/images/home/video1.mp4",
+        "ctaLabel": "Get Started",
+        "ctaHref": "#get-started"
+    },
+    {
+        "id": "slide-2",
+        "eyebrow": "Train With Purpose",
+        "titleLine1": "Build Strength That Lasts.",
+        "image": "/images/home/home_slide_img_2.png",
+        "video": "/images/home/video2.mp4",
+        "ctaLabel": "Join Now",
+        "ctaHref": "#join"
+    },
+    {
+        "id": "slide-3",
+        "eyebrow": "Coaching That Cares",
+        "titleLine1": "Your Goals, Our Mission.",
+        "image": "/images/home/home_slide_img_3.png",
+        "video": "/images/home/video3.mp4",
+        "ctaLabel": "Book a Session",
+        "ctaHref": "#book"
+    }
+]
