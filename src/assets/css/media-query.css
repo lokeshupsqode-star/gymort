@@ -73,6 +73,7 @@
     .yoga-accordion-section,
     .ourProgream-section,
     .home4-exercise-section,
+    .home4myProgram-section,
     .home4-testimonial-section,
     .home4-gallery-section {
         padding: 70px 0;
@@ -209,6 +210,9 @@
     .expercis-smart-row {
         gap: 35px 0;
     }
+    .gs-body {
+        justify-content: center;
+    }
 }
 
 @media (max-width:1050px) {
@@ -229,7 +233,6 @@
         flex-direction: column;
         height: auto;
     }
-
     .yoga-accordion__item.is-active {
         flex: none;
         height: 510px;
@@ -336,7 +339,8 @@
     .home3-testimonial-slider-img,
     .left-text-home4,
     .ultrices,
-    .smarter_exercise_detail {
+    .smarter_exercise_detail,
+    .youtube-trand-second-col {
         text-align: center;
     }
 
@@ -366,6 +370,7 @@
     .yoga-accordion-section,
     .ourProgream-section,
     .home4-exercise-section,
+    .home4myProgram-section,
     .home4-testimonial-section,
     .home4-gallery-section {
         padding: 50px 0;
@@ -657,7 +662,6 @@
         max-width: 100%;
         width: 100%;
     }
-
     .ig-item {
         position: relative;
         overflow: hidden;
@@ -684,6 +688,34 @@
     .adoe p,
     .adoe a {
         text-align: center;
+    }
+
+    .gs-number {
+        font-size: 65px;
+        line-height: 80px;
+    }
+
+    .gs-card {
+        transform: none;
+    }
+
+    .gs-tape {
+        top: 0px;
+        left: 50%;
+        transform: translateX(-50%) rotate(0deg);
+    }
+
+    .gs-body {
+        gap: 30px;
+    }
+
+    .youtube_trends_sec .row {
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+
+    .youtubevideo-player {
+        max-width: 100%;
     }
 }
 
@@ -748,6 +780,8 @@
     .yoga-accordion-section,
     .ourProgream-section,
     .home4-exercise-section,
+    .home4-exercise-section,
+    .home4myProgram-section,
     .home4-testimonial-section,
     .home4-gallery-section {
         padding: 30px 0;
@@ -964,7 +998,6 @@
     .expercis-smart-row {
         gap: 30px 0;
     }
-
     .ig-item {
         width: 310px;
     }
@@ -973,6 +1006,22 @@
         gap: 20px;
     }
 
+    .gs-title {
+        font-size: 28px;
+    }
+
+    .gs-number {
+        font-size: 60px;
+        width: 130px;
+    }
+
+    .youtubevideo-player img.yt-play-button {
+        width: 60px;
+    }
+
+    .youtube_trends_sec .row {
+        gap: 30px;
+    }
 }
 
 
@@ -988,7 +1037,7 @@
     }
 
     .sub-heading-section {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .section-heading {
@@ -1069,7 +1118,6 @@
     .best-results__title {
         font-size: 23px;
     }
-
     .ig-arrow {
         width: 45px;
         height: 45px;
@@ -1101,15 +1149,46 @@
         right: 10px;
     }
 
+    .gs-number {
+        font-size: 50px;
+        width: 115px;
+    }
+
+    .gs-title {
+        font-size: 25px;
+    }
+
+    .gs-number {
+        font-size: 50px;
+        line-height: 60px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .gs-time-pill {
+        font-size: 16px;
+    }
+
+    .gs-row {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .gs-content {
+        text-align: center;
+    }
+
+    .gs-photo-stack {
+        height: 440px;
+    }
+
 }
 
 @media (max-width: 375px) {
-
     .section-heading {
         font-size: 20px;
         line-height: 32px;
     }
-
     .counter-card-grid {
         grid-template-columns: repeat(1, 1fr);
     }
