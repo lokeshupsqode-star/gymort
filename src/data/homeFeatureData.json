@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Skilled Trainers",
+        "description": "Pellentesque donec in sit placerat tellus. Morbi fermentum non egestas ipsum at commodo semper. Tempor.",
+        "icon": "/images/svg/featureSvg1.svg",
+        "alt": "Skilled Trainers"
+    },
+    {
+        "id": 2,
+        "title": "Quality Equipment",
+        "description": "Dui consequat ante lectus risus. Dictum ac sodales nunc etiam. Sit lectus diam a nullam egestas.",
+        "icon": "/images/svg/featureSvg2.svg",
+        "alt": "Quality Equipment"
+    },
+    {
+        "id": 3,
+        "title": "Shower Cabins",
+        "description": "Nam lorem viverra dui feugiat. Scelerisque senectus mi bibendum lacinia. Proin orci rhoncus amet risus.",
+        "icon": "/images/svg/featureSvg3.svg",
+        "alt": "Shower Cabins"
+    },
+    {
+        "id": 4,
+        "title": "Sport Nutrition",
+        "description": "Ultrices duis massa massa nulla non aliquet lorem. Pellentesque dapibus eget scelerisque duis diam fames eu.",
+        "icon": "/images/svg/featureSvg4.svg",
+        "alt": "Sport Nutrition"
+    }
+]

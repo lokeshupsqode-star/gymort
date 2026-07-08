@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "MOTIVATE",
+        "description": "Vulputate mi fringilla non mi urna feugiat id pellentesque fermentum. Sit ultricies eget mattis quis ornare. Hendrerit et in.",
+        "image": "/images/process/process_img_1.png"
+    },
+    {
+        "id": 2,
+        "title": "WORKOUT",
+        "description": "Est eget ullamcorper pharetra velit adipiscing faucibus adipiscing interdum porta. Elit vel laoreet senectus non.",
+        "image": "/images/process/process_img_2.png"
+    },
+    {
+        "id": 3,
+        "title": "RESULTS",
+        "description": "Etiam mi arcu quisque lacus tellus ornare malesuada posuere. Aliquam morbi aliquam quisque cras urna mus a sit.",
+        "image": "/images/process/process_img_3.png"
+    }
+]

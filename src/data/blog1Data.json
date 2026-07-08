@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "category": "WORKOUT",
+        "date": "DEC 20, 2023",
+        "title": "Few benefits of group and personal training",
+        "description": " Gravida ut non cursus bibendum faucibus nibh magna. Pharetra sed cursus fermentum et semper amet varius orci etiam. Quis consectetur nunc sed diam. Sed commodo integer tincidunt neque tempus euismod id",
+        "image": "/images/blogs/home_blogs_img_1.png",
+        "link": "/blog/few-benefits-group-personal-training"
+    },
+    {
+        "id": 2,
+        "category": "WORKOUT",
+        "date": "JAN 08, 2024",
+        "title": "Top 5 benefits of outdoor personal training",
+        "description": " Venenatis est urna cursus sodales viverra non arcu turpis. Pretium  sollicitudin consectetur cras ac euismod molestie. Libero congue venenatis quam habitant. Tellus sit phasellus lorem massa lacus orci amet augue mauris",
+        "image": "/images/blogs/home_blogs_img_2.png",
+        "link": "/blog/top-10-strength-exercises"
+    },
+    {
+        "id": 3,
+        "category": "EXERCISE",
+        "date": "FEB 12, 2024",
+        "title": "How long does it take to get your fitness back?",
+        "description": "Risus interdum libero ut sagittis aliquet. Tincidunt integer fames justo proin bibendum suspendisse bibendum aliquam libero. Ut lectus eget condimentum ullamcorper ac sed. Praesent sit nunc cras eleifend id",
+        "image": "/images/blogs/home_blogs_img_3.png",
+        "link": "/blog/nutrition-workout-performance"
+    }
+]

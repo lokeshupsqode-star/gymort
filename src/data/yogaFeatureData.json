@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Mind",
+        "description": "Volutpat iaculis sit tellus ante elementum dui vitae ipsum. Nulla non tempor in at et duis lacus a. Fringilla netus quis diam sit tristique ipsum.",
+        "icon": "/images/svg/featureYogaSvg1.svg",
+        "alt": "Mind"
+    },
+    {
+        "id": 2,
+        "title": "Mental Health",
+        "description": "Dignissim nibh aliquam massa quam sit. In amet aliquet magna amet ipsum dui et. Id tempus at duis a amet. Pellentesque fermentum placerat.",
+        "icon": "/images/svg/featureYogaSvg2.svg",
+        "alt": "Mental Health"
+    },
+    {
+        "id": 3,
+        "title": "Body",
+        "description": "Quis ac in convallis vulputate adipiscing vitae amet. Sem lobortis arcu scelerisque vitae est morbi. Eu nunc maecenas sed magna et orci sed.",
+        "icon": "/images/svg/featureYogaSvg3.svg",
+        "alt": "Body"
+    }
+]

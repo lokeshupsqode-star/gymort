@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "/images/insta-feed/insta_feed_1.png",
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 2,
+        "image": "/images/insta-feed/insta_feed_2.png",
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 3,
+        "image": "/images/insta-feed/insta_feed_3.png",
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 4,
+        "image": "/images/insta-feed/insta_feed_4.png",
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 5,
+        "image": "/images/insta-feed/insta_feed_5.png",
+        "link": "https://www.instagram.com/"
+    },
+    {
+        "id": 6,
+        "image": "/images/insta-feed/insta_feed_6.png",
+        "link": "https://www.instagram.com/"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "power-yoga",
+        "label": "Power Yoga",
+        "image": "/images/training/yogaAccordion1.jpg",
+        "description": [
+            "A fast-paced, strength-driven practice that links breath to movement. Expect flowing sequences that build heat, raise the heart rate, and challenge balance and core control in equal measure.",
+            "Best suited to students who want yoga to double as a workout — sweaty, energising sessions that still leave room for a calm, seated finish."
+        ],
+        "ctaLabel": "Book Now",
+        "ctaHref": "/our-program"
+    },
+    {
+        "id": "vinyasa-yoga",
+        "label": "Vinyasa Yoga",
+        "image": "/images/training/yogaAccordion2.jpg",
+        "description": [
+            "Dolor pulvinar turpis justo viverra nibh cursus amet mauris. Facilisi rhoncus congue interdum duis duis lectus risus justo. Aliquam viverra morbi nisl dolor enim. Tempor pharetra ante elit cras phasellus. Risus ullamcorper massa nibh nulla aliquet.",
+            "Pulvinar massa ipsum dui scelerisque varius nisi nisl nibh. Pellentesque diam sed consequat morbi lacinia quis quam donec sed. Volutpat viverra mauris integer cursus a. Diam quis tellus blandit ullamcorper. Posuere pharetra vulputate volutpat porttitor tempor nisl malesuada semper nunc"
+        ],
+        "ctaLabel": "Book Now",
+        "ctaHref": "/our-program"
+    },
+    {
+        "id": "hatha-yoga",
+        "label": "Hatha Yoga",
+        "image": "/images/training/yogaAccordion3.jpg",
+        "description": [
+            "A slower, foundational practice that holds each posture for longer, giving you time to refine alignment and deepen the breath. Ideal ground for building strength without strain."
+        ],
+        "ctaLabel": "Book Now",
+        "ctaHref": "/our-program"
+    },
+    {
+        "id": "yin-yoga",
+        "label": "Yin Yoga",
+        "image": "/images/training/yogaAccordion4.jpg",
+        "description": [
+            "Long-held, passive stretches — often three to five minutes per pose — that target the connective tissue rather than the muscles. A quiet, meditative counterbalance to more active training.",
+            "Recommended on rest days, or any evening you need help switching the mind off before bed."
+        ],
+        "ctaLabel": "Book Now",
+        "ctaHref": "/our-program"
+    },
+    {
+        "id": "trauma-yoga",
+        "label": "Trauma Yoga",
+        "image": "/images/training/yogaAccordion5.jpg",
+        "description": [
+            "A trauma-informed practice built around choice, consent, and gentle pacing. Cues focus on internal sensation over external instruction, and every posture is optional.",
+            "Led with extra care for students working through stress, grief, or past injury — no pressure to keep up, only to notice what feels safe."
+        ],
+        "ctaLabel": "Book Now",
+        "ctaHref": "/our-program"
+    }
+]
