@@ -1,0 +1,1120 @@
+@media (min-width: 1650px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1290px !important;
+    }
+}
+
+@media (max-width: 1399px) {
+    .gymort-header-style2 .desktop-nav {
+        padding: 0px 100px;
+    }
+
+    .yoga-accordion__panel {
+        padding: 40px;
+    }
+
+    .yoga-accordion__item.is-active .yoga-accordion__tab {
+        width: 100px;
+    }
+
+    .yoga-accordion__item {
+        flex: 0 0 100px;
+    }
+
+    .best-results__accent {
+        display: none;
+    }
+
+    .home4-heroText {
+        font-size: 65px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .nav-list {
+        gap: 30px;
+    }
+
+    .hero-slide__title {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .home1freture-row {
+        gap: 50px 0;
+    }
+
+    .section-heading {
+        font-size: 35px;
+        line-height: 50px;
+        padding-bottom: 40px;
+        padding-top: 10px;
+    }
+
+    .home1-feature-section,
+    .counter-section,
+    .home1-process-section,
+    .trainer-section1,
+    .pricing-section,
+    .home1-blog-section,
+    .insta-section,
+    .home2-about,
+    .home2-training,
+    .home2-trainer,
+    .testimonial2-section,
+    .pricing-section2,
+    .home2-blog-section,
+    .yoga-accordion-section,
+    .ourProgream-section,
+    .home4-exercise-section,
+    .home4-testimonial-section,
+    .home4-gallery-section {
+        padding: 70px 0;
+    }
+
+    .bmi-calc-panel {
+        padding: 70px 30px;
+    }
+
+    .expercis-smart-row {
+        padding-top: 70px;
+    }
+
+    .progress_img::after {
+        display: none;
+    }
+
+    .counter-card::before {
+        font-size: 60px;
+        line-height: 100px;
+    }
+
+    .counter-card h2 {
+        font-size: 53px;
+        line-height: 60px;
+    }
+
+    .VideoPopUpSection {
+        min-height: 560px;
+    }
+
+    .pricing_v1_row {
+        gap: 40px 0;
+    }
+
+    .home-bolg-title-sub h2 {
+        max-width: 600px;
+    }
+
+    .blog_home_v1 .home_blog_info {
+        gap: 40px;
+    }
+
+    .footer_upper_big_text {
+        padding-bottom: 70px;
+    }
+
+    .footer_sec {
+        padding-top: 70px;
+    }
+
+    .scrolltop_area {
+        right: 20px;
+    }
+
+    .gymort-header-style2 .desktop-nav {
+        padding: 0px 68px;
+    }
+
+    .home2About-img2 {
+        display: none;
+    }
+
+    .esy-mian {
+        gap: 0;
+        padding-top: 20px;
+    }
+
+    .esy-mian ul li {
+        padding-top: 15px;
+    }
+
+    .esy-mian ul {
+        padding-bottom: 30px;
+    }
+
+    .training_card h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .training_card:nth-child(even) {
+        margin-top: 35px;
+    }
+
+    .home2-testimonial-prev,
+    .home2-testimonial-next {
+        width: 60px;
+        height: 60px;
+    }
+
+    .home_blog_info_upper_v2 {
+        flex-wrap: wrap;
+    }
+
+    .home2_blog_img-main img {
+        height: 100%;
+    }
+
+    .yoga-accordion__item {
+        flex: 0 0 85px;
+    }
+
+    .yoga-accordion__item.is-active .yoga-accordion__tab {
+        width: 85px;
+    }
+
+    .yoga-accordion__tab {
+        padding: 30px 20px;
+    }
+
+    .yoga-accordion__label {
+        font-size: 25px;
+    }
+
+    .hero-slider__controls3 .hero-slider__nav-btn-prev,
+    .hero-slider__controls3 .hero-slider__nav-btn-next {
+        display: none;
+    }
+
+    .home4-heroText {
+        font-size: 50px;
+        line-height: 65px;
+    }
+
+    .home4Hero-btn {
+        margin-top: 55px;
+    }
+
+    .ultrices {
+        padding-bottom: 25px;
+    }
+
+    .expercis-smart-row {
+        gap: 35px 0;
+    }
+}
+
+@media (max-width:1050px) {
+    .yoga-accordion__item {
+        flex: none;
+        max-width: 100%;
+    }
+
+    .yoga-accordion__item.is-active {
+        flex: none;
+    }
+
+    .yoga-accordion__item.is-active .yoga-accordion__tab {
+        width: 100%;
+    }
+
+    .yoga-accordion__rail {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .yoga-accordion__item.is-active {
+        flex: none;
+        height: 510px;
+    }
+
+    .yoga-accordion__tab {
+        flex-direction: row-reverse;
+        width: 100%;
+        height: auto;
+        justify-content: space-between;
+    }
+
+    .yoga-accordion__item.is-active .yoga-accordion__tab {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .yoga-accordion__label {
+        writing-mode: horizontal-tb;
+        transform: none;
+    }
+
+    .yoga-accordion__image {
+        transform: scale(1.05);
+    }
+
+    .yoga-accordion__panel {
+        max-width: none;
+        min-width: 0;
+        flex: none;
+    }
+
+    .yoga-accordion__panel .btn-main {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .gymort-header {
+        padding: 10px 25px;
+    }
+
+    .desktop-nav {
+        display: none;
+    }
+
+    .overlay-body {
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+
+    .gymort-header-style2 {
+        justify-content: space-between;
+    }
+
+    .gymort-header-style2 .brand-logo {
+        background: transparent;
+    }
+
+    .gymort-header-style2 .brand-logo img {
+        height: auto;
+        padding: 0;
+    }
+
+    .right-controls-style2 {
+        background: transparent;
+        min-height: auto;
+        padding-right: 0;
+    }
+
+    .right-controls-style2 .burger-btn {
+        background: #FFF;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+    }
+
+    .right-controls-style2 .burger-btn svg {
+        fill: #000;
+    }
+
+    .hero-slide__title {
+        font-size: 60px;
+        line-height: 80px;
+        text-align: center;
+    }
+
+    .hero-slide__eyebrow,
+    .traning_slider_item,
+    .copyrighht,
+    .home2-about .sub-heading-section,
+    .home2-about .section-heading,
+    .euismo,
+    .home2-trainer .section-heading,
+    .home2-trainer .sub-heading-section,
+    .sticky-text,
+    .training_left,
+    .training_left h2,
+    .training_left p,
+    .home2-blog-section .sub-heading-section,
+    .home2-blog-section .section-heading,
+    .home3-testimonial-slider-img,
+    .left-text-home4,
+    .ultrices,
+    .smarter_exercise_detail {
+        text-align: center;
+    }
+
+    .hero-slider__phone {
+        display: none;
+    }
+
+    .hero-btn-flx {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .home1-feature-section,
+    .counter-section,
+    .home1-process-section,
+    .trainer-section1,
+    .pricing-section,
+    .home1-blog-section,
+    .insta-section,
+    .home2-about,
+    .home2-training,
+    .home2-trainer,
+    .testimonial2-section,
+    .pricing-section2,
+    .home2-blog-section,
+    .yoga-accordion-section,
+    .ourProgream-section,
+    .home4-exercise-section,
+    .home4-testimonial-section,
+    .home4-gallery-section {
+        padding: 50px 0;
+    }
+
+    .program_v1_detailcard {
+        padding: 40px;
+    }
+
+    .expercis-smart-row {
+        padding-top: 40px;
+    }
+
+    .program_v1_detailcard_info {
+        padding: 10px 0 30px 0;
+    }
+
+    .program_v1_detailcard {
+        text-align: center;
+    }
+
+    .program_title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .our_progress_area_row {
+        gap: 30px 0;
+        margin-top: 30px;
+    }
+
+    .counter-card-grid {
+        gap: 10px;
+    }
+
+    .VideoPopUpSection {
+        min-height: 420px;
+    }
+
+    .circulart-text-main {
+        width: 150px;
+        height: 150px;
+    }
+
+    .circular-text {
+        width: 170px;
+        height: 170px;
+    }
+
+    .triners_name {
+        font-size: 20px;
+        padding-top: 18px;
+    }
+
+    .triners_info ul {
+        justify-content: center;
+    }
+
+    .testmo-bler {
+        max-width: 100%;
+        padding: 40px 90px;
+    }
+
+    .home-testimonial-section {
+        height: 590px;
+        display: flex;
+        align-items: center;
+    }
+
+    .tness {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .stimonial {
+        margin-top: 30px;
+    }
+
+    .blog_home_v1,
+    .blog_home_v2 {
+        grid-template-columns: 1fr;
+    }
+
+    .home-blog-img-thum {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .home-bolg-title {
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+
+    .home-bolg-title-sub p {
+        text-align: center;
+    }
+
+    .home-bolg-title-sub h2 {
+        max-width: 100%;
+        text-align: center;
+        padding-bottom: 0;
+    }
+
+    .insta_feed_box img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .marquee_track {
+        gap: 20px;
+    }
+
+    .text_track {
+        padding: 20px 0;
+    }
+
+    .marquee_text {
+        font-size: 26px;
+        line-height: 34px;
+        margin-right: 30px;
+    }
+
+    .separator {
+        margin-left: 30px;
+    }
+
+    .footer_upper_big_text {
+        padding-bottom: 50px;
+    }
+
+    .footer_sec {
+        padding-top: 50px;
+    }
+
+    .footer_mid_area .row {
+        gap: 30px 0;
+    }
+
+    .footer_bottom_area .row {
+        gap: 30px;
+        flex-direction: column-reverse;
+    }
+
+    ul.footer_social_icon {
+        display: flex;
+        justify-content: center;
+    }
+
+    .home2-about .row {
+        flex-direction: column-reverse;
+    }
+
+    .esy-mian ul li {
+        justify-content: center;
+    }
+
+    .home2-about .btn-main {
+        display: flex;
+        justify-content: center;
+    }
+
+    .home2About-img1 {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .home2-about .row {
+        gap: 40px 0;
+    }
+
+    .training_grid {
+        margin-top: 50px;
+        gap: 30px;
+    }
+
+    .training_card:nth-child(even) {
+        margin-top: 0px;
+    }
+
+    .our-trainerc-la {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .home2-trainer .row {
+        gap: 30px 0;
+    }
+
+    .bmi-calc-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .bmi-calc::before {
+        display: none;
+    }
+
+    .bmrmeta {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .bmi-calc-panel {
+        padding: 50px 30px;
+    }
+
+    .home2-testimonial-slider-main {
+        gap: 30px;
+        flex-wrap: wrap;
+    }
+
+    .home2_blog_img-main img {
+        height: 100%;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .home2-blog-section .row {
+        gap: 30px;
+    }
+
+    .blog_home_v2 .blog-title {
+        font-size: 30px;
+    }
+
+    .best-results__row {
+        gap: 30px;
+        flex-direction: column-reverse;
+    }
+
+    .best-results__media img {
+        width: 100%;
+    }
+
+    .best-results__divider {
+        margin: 20px 0;
+    }
+
+    .best-results__number {
+        font-size: 50px;
+        line-height: 60px;
+        text-align: center;
+    }
+
+    .best-results__content {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .best-results__list {
+        gap: 40px;
+    }
+
+    .home4-hero-col {
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .home4-hero {
+        padding-top: 140px;
+    }
+
+    .teaina {
+        padding-left: 0;
+    }
+
+    .teaina::before {
+        display: none;
+    }
+
+    .home4Hero-btn {
+        margin-top: 45px;
+    }
+
+    .trance-text {
+        display: none;
+    }
+
+    .home4-exercise-section .home4-exercise-section-row {
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+
+    .home4About {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .ig-item {
+        position: relative;
+        overflow: hidden;
+        width: 410px;
+    }
+
+    .ig-arrow {
+        width: 50px;
+        height: 50px;
+    }
+
+    .ig-arrow-left {
+        left: 40px;
+    }
+
+    .ig-arrow-right {
+        right: -10px;
+    }
+
+    .contact-form-section .row {
+        gap: 40px;
+    }
+
+    .adoe p,
+    .adoe a {
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 767px) {
+
+    .brand-logo img,
+    .gymort-header-style2 .brand-logo img {
+        max-width: 140px;
+    }
+
+    .gymort-header {
+        padding: 10px 15px;
+    }
+
+    .search-input-container {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .search-submit {
+        padding: 10px 25px;
+        width: 100%;
+    }
+
+    .search-overlay {
+        padding: 12px;
+    }
+
+    .hero-slide__title {
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .home1freture-row {
+        gap: 30px 0;
+    }
+
+    .section-heading {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 30px;
+    }
+
+    .sub-heading-section {
+        font-size: 20px;
+    }
+
+    .home1-feature-section,
+    .home1-process-section,
+    .trainer-section1,
+    .pricing-section,
+    .home1-blog-section,
+    .insta-section,
+    .home2-about,
+    .home2-training,
+    .home2-trainer,
+    .testimonial2-section,
+    .pricing-section2,
+    .home2-blog-section,
+    .yoga-accordion-section,
+    .ourProgream-section,
+    .home4-exercise-section,
+    .home4-testimonial-section,
+    .home4-gallery-section {
+        padding: 30px 0;
+    }
+
+    .hero-slide__eyebrow {
+        font-size: 18px;
+    }
+
+    .counter-card-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 50px;
+    }
+
+    .home-testimonial-section {
+        padding: 40px 0;
+    }
+
+    .home1-testimonial-prev,
+    .home1-testimonial-next {
+        display: none;
+    }
+
+    .testmo-bler {
+        padding: 30px 30px;
+    }
+
+    .stimonial img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .stimonial h2 {
+        font-size: 20px;
+    }
+
+    .stimonial p {
+        font-size: 16px;
+    }
+
+    .home-testimonial-section {
+        height: 100%;
+    }
+
+    .pricing_mid_area h3 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .pricing_mid_area::before {
+        font-size: 80px;
+        line-height: 120px;
+    }
+
+    .pricing_head_area h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .pricing_head_area {
+        padding: 15px;
+    }
+
+    .home_blog_btn {
+        display: none;
+    }
+
+    .blog_home_v1,
+    .blog_home_v2 {
+        padding: 25px 0px;
+    }
+
+    .blog_home_v1 .home_blog_info {
+        grid-template-columns: auto;
+    }
+
+    .blog-title {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 10px 0px 10px;
+    }
+
+    .insta_feed_box img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .text_track {
+        padding: 15px 0;
+    }
+
+    .marquee_text {
+        font-size: 20px;
+        line-height: 25px;
+        margin-right: 20px;
+    }
+
+    .separator {
+        margin-left: 20px;
+    }
+
+    .footer_upper_big_text {
+        padding-bottom: 30px;
+    }
+
+    .footer_sec {
+        padding-top: 40px;
+    }
+
+    .footer_mid_area {
+        padding-bottom: 30px;
+    }
+
+    #scroll-percentage {
+        display: none;
+    }
+
+    #scroll-top-btn:hover {
+        background: transparent;
+    }
+
+    #scroll-top-btn {
+        background: transparent;
+        width: auto;
+        height: auto;
+    }
+
+    .scrolltop_area {
+        bottom: 20px;
+    }
+
+    .hero-slider2__thumbs {
+        display: none;
+    }
+
+    .home2-about .row {
+        gap: 30px 0;
+    }
+
+    .training_grid {
+        grid-template-columns: repeat(1, 1fr);
+        margin-top: 35px;
+    }
+
+    .bmi-calc-panel {
+        padding: 30px 12px;
+    }
+
+    .home2-testimonial-prev,
+    .home2-testimonial-next {
+        display: none;
+    }
+
+    .yoga-accordion__panel {
+        padding: 30px 20px;
+    }
+
+    .yoga-accordion__item.is-active {
+        height: 460px;
+    }
+
+    .yoga-accordion__tab {
+        padding: 20px 20px;
+    }
+
+    .yoga-accordion__label {
+        font-size: 22px;
+    }
+
+    .yoga-accordion__arrow svg {
+        width: 28px;
+        height: 28px;
+    }
+
+    .home4-heroText {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .home4-hero-col {
+        padding-bottom: 30px;
+    }
+
+    .home4Hero-btn {
+        margin-top: 30px;
+    }
+
+    .home4-hero {
+        padding-top: 120px;
+    }
+
+    .best-results__title {
+        font-size: 25px;
+    }
+
+    .ultrices {
+        padding-bottom: 20px !important;
+    }
+
+    .home4-exercise-section .home4-exercise-section-row {
+        gap: 30px;
+    }
+
+    .blog_home_v2 .blog-title {
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .best-results__number {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .expercis-smart-row {
+        gap: 30px 0;
+    }
+
+    .ig-item {
+        width: 310px;
+    }
+
+    .ig-track {
+        gap: 20px;
+    }
+
+}
+
+
+@media (max-width: 575px) {
+
+    .hero-slide__title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .hero-slider__controls {
+        display: none;
+    }
+
+    .sub-heading-section {
+        font-size: 18px;
+    }
+
+    .section-heading {
+        font-size: 22px;
+        line-height: 33px;
+        padding-top: 0px;
+    }
+
+    .hero-slider,
+    .hero-slider2 {
+        height: 650px;
+    }
+
+    .program_v1_detailcard-heading {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .heding-sub-discrib {
+        padding-top: 10px;
+    }
+
+    .counter-card-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px 10px;
+    }
+
+    .pricing_plan_v1_box {
+        padding: 15px;
+    }
+
+    .pricing_bottom_item_list li {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .pricing_v1_row {
+        gap: 30px 0;
+    }
+
+    .footer-callus {
+        padding-bottom: 15px;
+    }
+
+    .accordion-row {
+        padding: 15px 0;
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .discuss-heading {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .traning_slider2 {
+        margin-right: 0 !important;
+    }
+
+    .bmi-calc-row {
+        gap: 10px;
+    }
+
+    .bmi-calc-form {
+        gap: 20px;
+    }
+
+    .home4-heroText {
+        font-size: 32px;
+        line-height: 45px;
+    }
+
+    .teaina {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+
+    .best-results__title {
+        font-size: 23px;
+    }
+
+    .ig-arrow {
+        width: 45px;
+        height: 45px;
+    }
+
+    .ig-arrow-left {
+        left: 30px;
+    }
+
+    .ig-arrow-right {
+        right: -15px;
+    }
+
+    .lb-arrow {
+        width: 42px;
+        height: 42px;
+    }
+
+    .lb-arrow-prev {
+        left: 10px;
+    }
+
+    .lb-arrow-next {
+        right: 10px;
+    }
+
+    .lb-close {
+        top: 10px;
+        right: 10px;
+    }
+
+}
+
+@media (max-width: 375px) {
+
+    .section-heading {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    .counter-card-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .social-links-grid {
+        grid-template-columns: repeat(1, 180px);
+    }
+}

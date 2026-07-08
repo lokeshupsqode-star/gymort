@@ -1,0 +1,344 @@
+[
+    {
+        "title": "Home",
+        "submenu": [
+            {
+                "title": "Fitness Page",
+                "path": "/"
+            },
+            {
+                "title": "Gym Page",
+                "path": "/home2"
+            },
+            {
+                "title": "Yoga Page",
+                "path": "/home3"
+            },
+            {
+                "title": "Trainer Page 1",
+                "path": "/home4"
+            },
+            {
+                "title": "Trainer Page 2",
+                "path": "/home5"
+            }
+        ]
+    },
+    {
+        "title": "Pages",
+        "submenu": [
+            {
+                "title": "About Us",
+                "path": "/about"
+            },
+            {
+                "title": "Our Team",
+                "subSubmenu": [
+                    {
+                        "title": "Team 1",
+                        "path": "/team/team1"
+                    },
+                    {
+                        "title": "Team 2",
+                        "path": "/team/team2"
+                    }
+                ]
+            },
+            {
+                "title": "BMI Calculator",
+                "path": "/calculator"
+            },
+            {
+                "title": "Timetable",
+                "subSubmenu": [
+                    {
+                        "title": "Class Timetable",
+                        "path": "/timetable/calculator"
+                    },
+                    {
+                        "title": "Single Class Timetable",
+                        "path": "/timetable/single-class-timetable"
+                    }
+                ]
+            },
+            {
+                "title": "Our Program",
+                "path": "/our-program"
+            },
+            {
+                "title": "Pricing Plans",
+                "subSubmenu": [
+                    {
+                        "title": "Pricing V1",
+                        "path": "/pricing/pricing-v1"
+                    },
+                    {
+                        "title": "Pricing V2",
+                        "path": "/pricing/pricing-v2"
+                    }
+                ]
+            },
+            {
+                "title": "FAQs",
+                "path": "/faqs"
+            },
+            {
+                "title": "Coming Soon",
+                "path": "/coming-soon"
+            },
+            {
+                "title": "Error 404",
+                "path": "/not-found"
+            }
+        ]
+    },
+    {
+        "title": "Projects",
+        "submenu": [
+            {
+                "title": "Grid",
+                "subSubmenu": [
+                    {
+                        "title": "Grid 2 Columns",
+                        "path": "/grid/grid-2-columns"
+                    },
+                    {
+                        "title": "Grid 3 Columns",
+                        "path": "/grid/grid-3-columns"
+                    },
+                    {
+                        "title": "Grid 4 Columns",
+                        "path": "/grid/grid-4-columns"
+                    }
+                ]
+            },
+            {
+                "title": "Grid Wide",
+                "subSubmenu": [
+                    {
+                        "title": "3 Columns Wide",
+                        "path": "/grid-wide/grid-2-columns"
+                    },
+                    {
+                        "title": "4 Columns Wide",
+                        "path": "/grid-wide/grid-3-columns"
+                    },
+                    {
+                        "title": "5 Columns Wide",
+                        "path": "/grid-wide/grid-4-columns"
+                    }
+                ]
+            },
+            {
+                "title": "Masonry",
+                "subSubmenu": [
+                    {
+                        "title": "Masonry V1",
+                        "path": "/masonry/masonry-v1"
+                    },
+                    {
+                        "title": "Masonry V2",
+                        "path": "/masonry/masonry-v2"
+                    },
+                    {
+                        "title": "Masonry V3",
+                        "path": "/masonry/masonry-v3"
+                    },
+                    {
+                        "title": "Masonry V4",
+                        "path": "/masonry/masonry-v4"
+                    }
+                ]
+            },
+            {
+                "title": "Gallery",
+                "subSubmenu": [
+                    {
+                        "title": "Grid Gallery",
+                        "path": "/gallery/grid-gallery"
+                    },
+                    {
+                        "title": "Joined Gallery",
+                        "path": "/gallery/joined-gallery"
+                    }
+                ]
+            },
+            {
+                "title": "Single Images",
+                "subSubmenu": [
+                    {
+                        "title": "Images",
+                        "path": "/single-images/images"
+                    },
+                    {
+                        "title": "Small Images",
+                        "path": "/single-images/small-images"
+                    },
+                    {
+                        "title": "Big Images",
+                        "path": "/single-images/big-images"
+                    }
+                ]
+            },
+            {
+                "title": "Single Slider",
+                "subSubmenu": [
+                    {
+                        "title": "Slider",
+                        "path": "/single-slider/slider"
+                    },
+                    {
+                        "title": "Small Slider",
+                        "path": "/single-slider/small-slider"
+                    },
+                    {
+                        "title": "Big Slider",
+                        "path": "/single-slider/big-slider"
+                    }
+                ]
+            },
+            {
+                "title": "Single Video",
+                "path": "/single-video"
+            }
+        ]
+    },
+    {
+        "title": "Blog",
+        "submenu": [
+            {
+                "title": "Blogs Standard",
+                "subSubmenu": [
+                    {
+                        "title": "Blogs Standard",
+                        "path": "/blog-standard/blog-standard-1"
+                    },
+                    {
+                        "title": "Blogs Standard Right Sidebar",
+                        "path": "/blog-standard/blog-standard-right-sidebar"
+                    },
+                    {
+                        "title": "Blogs Standard Left Sidebar",
+                        "path": "/blog-standard/blog-standard-left-sidebar"
+                    }
+                ]
+            },
+            {
+                "title": "Blogs Listing",
+                "subSubmenu": [
+                    {
+                        "title": "Blogs Listing V1",
+                        "path": "/blog-listing/blog-listing-1"
+                    },
+                    {
+                        "title": "Blogs Listing V2",
+                        "path": "/blog-listing/blog-listing-2"
+                    }
+                ]
+            },
+            {
+                "title": "Single Blogs Right Sidebar",
+                "subSubmenu": [
+                    {
+                        "title": "Blogs Standard",
+                        "path": "/blog-listing/blog-listing-1"
+                    },
+                    {
+                        "title": "Blogs Gallery",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Youtube Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Quote",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Link",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Music",
+                        "path": "/blog-listing/blog-listing-2"
+                    }
+                ]
+            },
+            {
+                "title": "Single Blogs Left Sidebar",
+                "subSubmenu": [
+                    {
+                        "title": "Blogs Standard",
+                        "path": "/blog-listing/blog-listing-1"
+                    },
+                    {
+                        "title": "Blogs Gallery",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Youtube Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Quote",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Link",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Music",
+                        "path": "/blog-listing/blog-listing-2"
+                    }
+                ]
+            },
+            {
+                "title": "Single Blogs No Sidebar",
+                "subSubmenu": [
+                    {
+                        "title": "Blogs Standard",
+                        "path": "/blog-listing/blog-listing-1"
+                    },
+                    {
+                        "title": "Blogs Gallery",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Youtube Video",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Quote",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Link",
+                        "path": "/blog-listing/blog-listing-2"
+                    },
+                    {
+                        "title": "Blogs Music",
+                        "path": "/blog-listing/blog-listing-2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Contact",
+        "path": "/contact"
+    }
+]

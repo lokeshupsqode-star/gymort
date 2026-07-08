@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Body & Mind",
+        "description": "In faucibus elementum dolor nunc vestibulum adipiscing tempus mauris. Elit urna sodales scelerisqu.",
+        "icon": "/images/svg/featureHome4Svg1.svg",
+        "alt": "Body & Mind"
+    },
+    {
+        "id": 2,
+        "title": "Healthy Life",
+        "description": "  Amet morbi leo quisque egestas enim nec cursus. Lacinia elit elementum tellus orci. Id nisi adipiscing justo eget.",
+        "icon": "/images/svg/featureHome4Svg2.svg",
+        "alt": "Healthy Life"
+    },
+    {
+        "id": 3,
+        "title": "Strategies",
+        "description": "Egestas donec nibh tincidunt sed diam ut tempus nam. Euismod sit est dui consequat vitae.",
+        "icon": "/images/svg/featureHome4Svg3.svg",
+        "alt": "Strategies"
+    },
+    {
+        "id": 4,
+        "title": "Workout",
+        "description": "Adipiscing dignissim quis nam nullam nisl nisl mauris tortor. Est vitae enim nunc tristique in cras.",
+        "icon": "/images/svg/featureHome4Svg4.svg",
+        "alt": "Workout"
+    }
+]

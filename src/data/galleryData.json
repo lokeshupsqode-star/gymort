@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Personal training — deadlift form",
+        "alt": "Trainer assisting a client with deadlift form on a gym platform",
+        "src": "/images/gallery/gallery-img1.jpg",
+        "thumb": "/images/gallery/gallery-img1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Group class — dumbbell squats",
+        "alt": "Group fitness class doing dumbbell squats together",
+        "src": "/images/gallery/gallery-img2.jpg",
+        "thumb": "/images/gallery/gallery-img2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "One-on-one coaching — kettlebell squat",
+        "alt": "Coach guiding a client through a kettlebell squat",
+        "src": "/images/gallery/gallery-img3.jpg",
+        "thumb": "/images/gallery/gallery-img3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Free weights area",
+        "alt": "Rows of dumbbells and free weight racks in the gym",
+        "src": "/images/gallery/gallery-img4.jpg",
+        "thumb": "/images/gallery/gallery-img4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Ring dips — strength session",
+        "alt": "Athlete performing ring dips during a strength session",
+        "src": "/images/gallery/gallery-img5.jpg",
+        "thumb": "/images/gallery/gallery-img5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Morning cardio",
+        "alt": "Members on treadmills during a morning cardio session",
+        "src": "/images/gallery/gallery-img6.jpg",
+        "thumb": "/images/gallery/gallery-img6.jpg"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "title": "BASIC",
+        "price": 49,
+        "features": [
+            {
+                "text": "5 Days per Week",
+                "available": true
+            },
+            {
+                "text": "Functional Training",
+                "available": true
+            },
+            {
+                "text": "HIT Training",
+                "available": false
+            },
+            {
+                "text": "Open GYM",
+                "available": false
+            },
+            {
+                "text": "Access to Videos",
+                "available": false
+            },
+            {
+                "text": "Nutrition Program",
+                "available": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "ADVANCE",
+        "price": 79,
+        "features": [
+            {
+                "text": "5 Days per Week",
+                "available": true
+            },
+            {
+                "text": "Functional Training",
+                "available": true
+            },
+            {
+                "text": "HIT Training",
+                "available": true
+            },
+            {
+                "text": "Open GYM",
+                "available": true
+            },
+            {
+                "text": "Access to Videos",
+                "available": false
+            },
+            {
+                "text": "Nutrition Program",
+                "available": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "PREMIUM",
+        "price": 99,
+        "features": [
+            {
+                "text": "5 Days per Week",
+                "available": true
+            },
+            {
+                "text": "Functional Training",
+                "available": true
+            },
+            {
+                "text": "HIT Training",
+                "available": true
+            },
+            {
+                "text": "Open GYM",
+                "available": true
+            },
+            {
+                "text": "Access to Videos",
+                "available": true
+            },
+            {
+                "text": "Nutrition Program",
+                "available": true
+            }
+        ]
+    }
+]

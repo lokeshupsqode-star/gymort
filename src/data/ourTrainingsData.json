@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "CARDIO TRAINING",
+        "image": "/images/training/trainingImg1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "CROSSFIT TRAINING",
+        "image": "/images/training/trainingImg2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "OUTDOOR TRAINING",
+        "image": "/images/training/trainingImg3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "BOXING TRAINING",
+        "image": "/images/training/trainingImg4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "POWER LIFTING",
+        "image": "/images/training/trainingImg5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "ZUMBA TRAINING",
+        "image": "/images/training/trainingImg6.jpg"
+    }
+]
